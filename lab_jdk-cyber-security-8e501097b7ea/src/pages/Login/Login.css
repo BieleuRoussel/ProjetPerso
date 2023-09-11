@@ -1,0 +1,10 @@
+.logmain{
+    opacity: 0.95;
+}
+.separator {
+    display: inline-block;
+    height: 10px;
+    width: 1px;
+    background-color: #ccc;
+    margin: 0 12px;
+}
